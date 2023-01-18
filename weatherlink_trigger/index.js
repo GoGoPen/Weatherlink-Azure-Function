@@ -10,7 +10,7 @@ module.exports = async function (context, req) {
 
     const api_secret = '';
     const api_key_v2 = '';
-    const station_id = '150608';
+    const station_id = '';
 
     var t = Math.round((new Date()).getTime() / 1000);
 
